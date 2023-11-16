@@ -1,0 +1,3 @@
+﻿  manager.cpp
+C:\Users\elias.rezai\source\repos\manager\manager\manager.cpp(111,10): warning C4101: 'task': unreferenced local variable
+  manager.vcxproj -> C:\Users\elias.rezai\source\repos\manager\Debug\manager.exe
